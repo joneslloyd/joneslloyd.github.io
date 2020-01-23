@@ -1,7 +1,13 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Documenting my machine learning journey
 
-![Image of fast.ai logo](images/logo.png)
+Hello!
 
-## This is a title
+My name is Lloyd. I'm a computer scientist currently working as CTO at [Backlinko](https://backlinko.com).
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+I started studying machine learning toward the end of 2019.
+
+#My first project
+
+My first project was an African Grey Parrot classifier (based on the [image classification lesson](https://course.fast.ai/videos/?lesson=1) in the Fast AI course). Using images scraped from Google Images, and curating them with a bit of domain-specific knowledge (having owned an African Grey parrot myself), I created a dataset of Congo African Grey and Timneh African Grey parrots.
+
+I then trained the neural network to correctly identify the species of parrot with accuracy ≈74. Not groundbreaking, but I was impressed anyway!
