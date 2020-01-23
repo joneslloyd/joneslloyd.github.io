@@ -20,9 +20,10 @@ I read a [great series of blog posts by Josh Varty](https://github.com/JoshVarty
 
 But as Josh says in his posts, this isn't *really* counting, because the neural network is realy just learning every possible 'shape' that "X dots" could be in an image. Plus, the range of numbers needs to be pre-defined (it being a classification problem and all).
 
-So, not really ideal.
+Not really ideal.
 
-But approaching it as a regression problem made more sense. As [@btahir](https://medium.com/r/?url=http%3A%2F%2Ftwitter.com%2Fbtahir) says: "*This makes sense if you think about using classification, you would be penalizing an output of 32 vs the ground truth of age 31 the same as if the model had predicted age 99. We want to let the model know that the closer it got to the true age, the better*".
+So, approaching it as a regression problem makes more sense. As [@btahir](https://medium.com/r/?url=http%3A%2F%2Ftwitter.com%2Fbtahir) says: "*This makes sense if you think about using classification, you would be penalizing an output of 32 vs the ground truth of age 31 the same as if the model had predicted age 99. We want to let the model know that the closer it got to the true age, the better*".
+
 And Jeremy Howard also said, in response to a question on the FastAI forums: "*[I don't think our normal convnets will work well for that. You'll need to use object detection](https://medium.com/r/?url=https%3A%2F%2Fforums.fast.ai%2Ft%2Fshare-your-work-here%2F27676%2F540%3Fu%3Djoneslloyd)*".
 
 I did later realise that Josh produced [another post](https://github.com/JoshVarty/ImageClassification/blob/master/4_CountingRegression.ipynb) where he did approach it as a regression problem, which is exactly what I'd like to do.
