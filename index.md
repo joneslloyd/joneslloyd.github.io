@@ -2,7 +2,7 @@
 
 Hello!
 
-My name is Lloyd. I'm a computer scientist currently working as CTO at [Backlinko](https://backlinko.com).
+My name is Lloyd. I'm a computer scientist. I work at [Backlinko](https://backlinko.com) as CTO, but this blog is personal and not associated with my job.
 
 I started studying machine learning toward the end of 2019.
 
