@@ -1,4 +1,4 @@
-# A new problem!
+# Salmon lice 🤢 – A new problem!
 
 In looking for a real-world challenge to solve as part of my machine learning-learning, I spoke to [a friend in Norway](https://loop.frontiersin.org/people/505062/overview) who does a lot of acadmic and post-doctoral work with salmon. I don't pretend to understand most of it, but one particular task that she undertakes sounded like a good candidate for a ML project:
 
