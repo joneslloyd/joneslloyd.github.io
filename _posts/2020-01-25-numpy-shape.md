@@ -1,6 +1,6 @@
 # NumPy shape
 
-Coming from a PHP background, I was left really, *really* confused by numpy.shape as referenced in lesson 1 of part 2 of the course ([about here](https://youtu.be/4u8FxNEDUeg?t=3433)).
+Coming from a PHP background, I was left really, *really* confused by `numpy.shape` as referenced in lesson 1 of part 2 of the course ([about here](https://youtu.be/4u8FxNEDUeg?t=3433)).
 
 Here's why! Hopefully this helps other confused people in the same boat.
 
@@ -47,5 +47,7 @@ To me, what is returned by the shape property here implies that we have a rank t
 Bun in reality we have one row containing three columns (I think).
 
 I did some Googling, and [this](https://stackoverflow.com/a/42465046/2869234) and [this](https://stackoverflow.com/a/47614552/2869234) helped to clear things up for me.
+
+[This may also be of use](https://note.nkmk.me/en/python-numpy-ndarray-ndim-shape-size/).
 
 TLDR: The `shape` property returns, to me, inconsistent information depending on the number of the dimensions of the array upon which it is invoked.
