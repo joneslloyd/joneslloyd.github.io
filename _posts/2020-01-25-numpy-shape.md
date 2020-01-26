@@ -5,7 +5,7 @@ __UPDATE:
 I think all my confusion over `numpy.shape` might have been caused by a combination of tiredness and not reading the output array notation correctly.
 
 I saw this:
-![Screenshot from lesson one, part two of the Fast AI course](joneslloyd.github.io/images/part-2-lesson-1-highlight.png)
+![Screenshot from lesson one, part two of the Fast AI course](https://joneslloyd.github.io/images/part-2-lesson-1-highlight.png)
 
 ...and thought that, in each case, the outer square brackets denoted one array (row), then the next brackets denoted another. I'm pretty sure this is a PHP thing.
 
