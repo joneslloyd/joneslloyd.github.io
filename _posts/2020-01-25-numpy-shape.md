@@ -2,7 +2,7 @@
 
 Coming from a PHP background, I was left really, *really* confused by `numpy.shape` as referenced in lesson 1 of part 2 of the course ([about here](https://youtu.be/4u8FxNEDUeg?t=3433){:target="_blank" rel="noopener"}).
 
-Here's why! Hopefully this helps other confused people in the same boat.
+Here's why – Hopefully this helps other confused people in the same boat.
 
 Jeremy gives some code like this:
 `a = tensor([10,20,30]);`
