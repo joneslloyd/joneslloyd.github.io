@@ -40,14 +40,14 @@ If we were to instead add a new dimension to `a`, but this time on its *second* 
 
 !??!?!
 
-According to [the documentation](https://numpy.org/devdocs/reference/generated/numpy.shape.html) "*The elements of the shape tuple give the lengths of the corresponding array dimensions*"
+According to [the documentation](https://numpy.org/devdocs/reference/generated/numpy.shape.html){:target="_blank" rel="noopener"} "*The elements of the shape tuple give the lengths of the corresponding array dimensions*"
 
 To me, what is returned by the shape property here implies that we have a rank two tensor with three rows, each of which contain one column.
 
 Bun in reality we have one row containing three columns (I think).
 
-I did some Googling, and [this](https://stackoverflow.com/a/42465046/2869234) and [this](https://stackoverflow.com/a/47614552/2869234) helped to clear things up for me.
+I did some Googling, and [this](https://stackoverflow.com/a/42465046/2869234){:target="_blank" rel="noopener"} and [this](https://stackoverflow.com/a/47614552/2869234){:target="_blank" rel="noopener"} helped to clear things up for me.
 
-[This may also be of use](https://note.nkmk.me/en/python-numpy-ndarray-ndim-shape-size/).
+[This may also be of use](https://note.nkmk.me/en/python-numpy-ndarray-ndim-shape-size/){:target="_blank" rel="noopener"}.
 
 TLDR: The `shape` property returns, to me, inconsistent information depending on the number of the dimensions of the array upon which it is invoked.
