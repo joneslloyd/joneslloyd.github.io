@@ -41,7 +41,7 @@ Rather than simply assess "*No lice or X lice*", Tina asked if I could instead:
 
 ### Approach/architecture
 
-Maybe this require multiple neural networks?
+Maybe this requires multiple neural networks?
 
 Right now, I'm thinking that (much like [Gilbert Tanner's example](https://gilberttanner.com/blog/fastai-multi-label-image-classification){:target="_blank" rel="noopener"}) some sort of multi-label classification neural network could be best for labelling each dish as containing things like biofouling, jellyfish, feed pellets (etc).
 
