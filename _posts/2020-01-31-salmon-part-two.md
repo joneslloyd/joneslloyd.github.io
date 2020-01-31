@@ -19,7 +19,7 @@ Tina sent over some of the stomach contents photos.
 Here are three, as a sample:
 
 ### Contents: Lice, Feed pellets, Biofouling
-![Stomach contents sample: Lice, Feed pellets, Biofouling](https://joneslloyd.github.io/images/stomach-contents-sample--lice+feed pellets+biofouling.png){:width="500px"}
+![Stomach contents sample: Lice, Feed pellets, Biofouling](https://joneslloyd.github.io/images/stomach-contents-sample--lice+feed-pellets+biofouling.png){:width="500px"}
 
 ### Contents: Jellyfish, Biofouling
 ![Stomach contents sample: Jellyfish, Biofouling](https://joneslloyd.github.io/images/stomach-contents-sample--jellyfish+biofouling.png){:width="500px"}
