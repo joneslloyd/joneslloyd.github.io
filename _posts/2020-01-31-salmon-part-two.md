@@ -19,13 +19,13 @@ Tina sent over some of the stomach contents photos.
 Here are three, as a sample:
 
 ### Contents: Lice, Feed pellets, Biofouling
-![Stomach contents sample: Lice, Feed pellets, Biofouling](https://joneslloyd.github.io/images/stomach-contents-sample--lice+feed-pellets+biofouling.png){:width="500px"}
+![Stomach contents sample: Lice, Feed pellets, Biofouling](https://joneslloyd.github.io/images/stomach-contents-sample--lice+feed-pellets+biofouling.png){:width="500px"}*Credit: Tina Marie Weier Oldham*
 
 ### Contents: Jellyfish, Biofouling
-![Stomach contents sample: Jellyfish, Biofouling](https://joneslloyd.github.io/images/stomach-contents-sample--jellyfish+biofouling.png){:width="500px"}
+![Stomach contents sample: Jellyfish, Biofouling](https://joneslloyd.github.io/images/stomach-contents-sample--jellyfish+biofouling.png){:width="500px"}*Credit: Tina Marie Weier Oldham*
 
 ### Contents: Empty
-![Stomach contents sample: Empty](https://joneslloyd.github.io/images/stomach-contents-sample--empty.png){:width="500px"}
+![Stomach contents sample: Empty](https://joneslloyd.github.io/images/stomach-contents-sample--empty.png){:width="500px"}*Credit: Tina Marie Weier Oldham*
 
 Rather than simply assess "*No lice or X lice*", Tina asked if I could instead:
 
