@@ -2,8 +2,9 @@
 
 As previously mentioned (I think?), I was going to approach this problem in two stages:
 
-1) Multi-label classification
-2) Instance segementation
+__1)__ Multi-label classification
+
+__2)__ Instance segementation
 
 This post details the progress with multi-label classification and things around it.
 
