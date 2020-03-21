@@ -190,3 +190,7 @@ When I run a quick calculation on the Google Sheet, I get the following counts:
 ![Label counts](https://joneslloyd.github.io/images/label-counts-sample.png){:width="500px"}
 
 So maybe this unbalanced set of labels accounts for the lack of accuracy?
+
+## But then again...
+
+Given the multi-label classification task was essentially a warmup / toy project (before instance segmentation), maybe it isn't worth spending too much time on this...
