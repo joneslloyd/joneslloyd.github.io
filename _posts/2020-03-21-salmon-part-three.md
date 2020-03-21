@@ -24,7 +24,7 @@ Tina also provided a Google Sheet containing fish IDs, and columns for the prese
 From that I have created a .CSV file that looks like this:
 ![The CSV file](https://joneslloyd.github.io/images/csv-sample.png){:width="500px"}
 
-It contains (as with the Pascale dataset) all labels separated by a space. There are only two columns; one for filename and one for labels.
+It contains (as with the PASCAL dataset) all labels separated by a space. There are only two columns; one for filename and one for labels.
 
 ## Jupyter Notebook
 
