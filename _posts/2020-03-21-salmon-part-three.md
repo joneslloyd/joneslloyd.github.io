@@ -131,7 +131,7 @@ __Output from `learn.lr_find()`:__
 lr = 1e-1
 learn = learn.to_fp16()
 ```
-I chose 1<sup>e-1</sup> here both because of Jeremy's advice in the 2019 course, and because (from experimenting) it performed better than 1<sup>e-2</sup> and 1<sup>e-3</sup>.
+I chose 1<sup>e-1</sup> here both because of Jeremy's advice in the 2019 course (which point on the graph to use), and because (from experimenting) it performed better than 1<sup>e-2</sup> and 1<sup>e-3</sup>.
 
 ```
 learn.fit_one_cycle(5, slice(lr))
