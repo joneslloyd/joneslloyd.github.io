@@ -2,7 +2,7 @@
 
 Long story short, this was never going to work with the fuzziness of the dataset's labelling.
 
-The issue was that, in a load of petri-dishes containing soem biofouling, some anemones, some fish feed (etc), the threshold for "This contains biofouling" was always going to be arbitrary. Where there's a tiny speck of biofouling and we're saying "This contains no biofouling", we're giving the neural network a really hard time in figuring out what exactly it's supposed to be abtracting from the images to form its notions of "biofouly-ness", "licey-ness", "feedy-ness", etc.
+The issue was that, in a load of petri-dishes containing some biofouling, some anemones, some fish feed (etc), the threshold for "This contains biofouling" was always going to be arbitrary. Where there's a tiny speck of biofouling and we're saying "This contains no biofouling", we're giving the neural network a really hard time in figuring out what exactly it's supposed to be abtracting from the images to form its notions of "biofouly-ness", "licey-ness", "feedy-ness", etc.
 
 Or to put it another way:
 
